@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Direct Fitting of Gaussian Mixture Models"
+title:  "A Model for Perimeter Defense Problems with Heterogeneous Teams"
 date:   2019-05-29 22:21:59 +00:00
-image: /images/crv19.png
+image: images/trackingfig.png
 categories: research
 author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+authors: "<strong>Christopher D. Hsu</strong>, Mulugeta A. Haile, and Pratik Chaudhari"
 venue: "Computer and Robot Vision Conference"
 arxiv: https://arxiv.org/abs/1904.05537
 slides: /pdfs/crv19-slides.pdf
