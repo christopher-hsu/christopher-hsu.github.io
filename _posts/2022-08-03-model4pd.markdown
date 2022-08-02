@@ -5,10 +5,6 @@ date:   2022-08-03 22:21:59 +00:00
 image: images/trackingfig.png
 categories: research
 authors: "<strong>Christopher D. Hsu</strong>, Mulugeta A. Haile, and Pratik Chaudhari"
-venue: "Computer and Robot Vision Conference"
-arxiv: https://arxiv.org/abs/1904.05537
-slides: /pdfs/crv19-slides.pdf
-code: https://github.com/leonidk/direct_gmm
 ---
 
 We develop a model of the multi-agent perimter-defense game to calculate how an adaptive defense should be organized against an attacker distribution that may be unknown and/or envolving. Furthermore, we show that the defender team can achieve near-optimal harm using a decentralized approach.
