@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Model for Perimeter Defense Problems with Heterogeneous Teams"
-date:   2022-08-03 22:21:59 +00:00
+date:   2019-05-29 22:21:59 +00:00
 image: images/trackingfig.png
 categories: research
 authors: "<strong>Christopher D. Hsu</strong>, Mulugeta A. Haile, and Pratik Chaudhari"
