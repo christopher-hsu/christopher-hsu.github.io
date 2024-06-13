@@ -6,7 +6,7 @@ image: images/shapefig1.png
 categories: research
 authors: "<strong>Christopher D. Hsu</strong>, Mulugeta A. Haile, and Pratik Chaudhari"
 venue: "American Controls Conference (ACC)"
-arxiv: https://arxiv.org/abs/2208.01430
+paper: https://arxiv.org/abs/2208.01430
 # code: https://github.com/grasp-lyrl/Model4MAInteractions
 ---
 

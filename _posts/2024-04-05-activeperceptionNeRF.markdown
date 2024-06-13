@@ -6,7 +6,7 @@ image: images/scene3_mesh.png
 categories: research
 authors: "Siming He, <strong>Christopher D. Hsu</strong>, Dexter Ong, Yifei Simon Shao, and Pratik Chaudhari"
 venue: "American Controls Conference (ACC)"
-arxiv: https://arxiv.org/abs/2310.09892
+paper: https://arxiv.org/abs/2310.09892
 code: https://github.com/grasp-lyrl/Active-Perception-using-Neural-Radiance-Fields
 ---
 

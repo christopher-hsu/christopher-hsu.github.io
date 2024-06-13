@@ -5,7 +5,7 @@ date:   2024-10-15 22:21:59 +00:00
 image: images/philly_tpv_119.png
 categories: research
 authors: "<strong>Christopher D. Hsu</strong> and Pratik Chaudhari"
-arxiv: https://arxiv.org/abs/2406.07431
+paper: https://arxiv.org/abs/2406.07431
 # code: https://github.com/grasp-lyrl/Model4MAInteractions
 ---
 

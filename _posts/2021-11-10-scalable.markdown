@@ -6,7 +6,7 @@ image: images/trackingfig.png
 categories: research
 authors: "<strong>Christopher D. Hsu</strong>, Heejin Jeong, George J. Pappas, and Pratik Chaudhari"
 venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
-arxiv: https://arxiv.org/abs/2011.08055
+paper: https://arxiv.org/abs/2011.08055
 code: https://github.com/christopher-hsu/scalableMARL
 ---
 
