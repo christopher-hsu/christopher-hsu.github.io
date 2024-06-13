@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Active Perception using Neural Radiance Fields"
-date:   2023-04-05 22:21:59 +00:00
-# image: images/shapefig1.png
+title:  "Control algorithms for guidance of autonomous flying agents using reinforcement learning"
+date:   2022-06-12 22:21:59 +00:00
+image: images/ma6_rlpronav.pdf
 categories: research
-authors: "Siming He, <strong>Christopher D. Hsu</strong>, Dexter Ong, Yifei Simon Shao, and Pratik Chaudhari"
-arxiv: https://arxiv.org/abs/2310.09892
-code: https://github.com/grasp-lyrl/Active-Perception-using-Neural-Radiance-Fields
+authors: "<strong>Christopher D. Hsu</strong>, Franklin J. Shedleski, and Bethany Allik"
+venue: "SPIE Defense and Commerical Sensing (SPIE)"
+paper: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12544/1254407/Control-algorithms-for-guidance-of-autonomous-flying-agents-using-reinforcement/10.1117/12.2663072.short#_=_
+# code: https://github.com/grasp-lyrl/Model4MAInteractions
 ---
 
-We study active perception from first principles to argue that an autonomous agent performing active perception should maximize the mutual information that past observations posses about future ones. Doing so requires (a) a representation of the scene that summarizes past observations and the ability to update this representation to incorporate new observations (state estimation and mapping), (b) the ability to synthesize new observations of the scene (a generative model), and (c) the ability to select control trajectories that maximize predictive information (planning). This motivates a neural radiance field (NeRF)-like representation which captures photometric, geometric and semantic properties of the scene grounded. This representation is well-suited to synthesizing new observations from different viewpoints. And thereby, a sampling-based planner can be used to calculate the predictive information from synthetic observations along dynamically-feasible trajectories. We use active perception for exploring cluttered indoor environments and employ a notion of semantic uncertainty to check for the successful completion of an exploration task. We demonstrate these ideas via simulation in realistic 3D indoor environments. 
+In this paper, we explore the advantages and disadvantages of the traditional guidance law, proportional navigation (ProNav), in comparison to a reinforcement learning algorithm called proximal policy optimization (PPO) for the control of an autonomous agent flying to a target. Through experiments with perfect state estimation, we find that the two strategies under control constraints have their own unique benefits and tradeoffs in terms of accuracy and the resulting bounds on the reachable set of acquiring targets. Interestingly, we discover that it is the combination of the two strategies that results in the best overall performance. Lastly, we show how this policy can be extended to guide multiple agents.
