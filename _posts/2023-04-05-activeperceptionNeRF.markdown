@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Active Perception using Neural Radiance Fields"
-date:   2023-04-05 22:21:59 +00:00
-# image: images/shapefig1.png
+date:   2024-04-05 22:21:59 +00:00
+image: images/scene3_mesh.png
 categories: research
 authors: "Siming He, <strong>Christopher D. Hsu</strong>, Dexter Ong, Yifei Simon Shao, and Pratik Chaudhari"
+venue: "American Controls Conference (ACC)"
 arxiv: https://arxiv.org/abs/2310.09892
 code: https://github.com/grasp-lyrl/Active-Perception-using-Neural-Radiance-Fields
 ---
