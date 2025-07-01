@@ -5,6 +5,7 @@ date:   2024-06-10 22:21:59 +00:00
 image: images/philly_tpv_119.png
 categories: research
 authors: "<strong>Christopher D. Hsu</strong> and Pratik Chaudhari"
+venue: "IEEE/RSJ International Conference of Intelligent Robotics and Systems (IROS)"
 paper: https://arxiv.org/abs/2406.07431
 code: https://github.com/grasp-lyrl/ActiveScout
 ---
