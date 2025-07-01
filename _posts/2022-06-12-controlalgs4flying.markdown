@@ -2,7 +2,7 @@
 layout: post
 title:  "Control algorithms for guidance of autonomous flying agents using reinforcement learning"
 date:   2022-06-12 22:21:59 +00:00
-image: images/ma6_rlpronav.pdf
+image: images/rlpronav.png
 categories: research
 authors: "<strong>Christopher D. Hsu</strong>, Franklin J. Shedleski, and Bethany Allik"
 venue: "SPIE Defense and Commerical Sensing (SPIE)"
